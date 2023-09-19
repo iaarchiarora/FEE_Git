@@ -1,0 +1,49 @@
+Component hiearchy
+App
+>home   Header comp
+>About  Footer comp
+
+
+properties...
+
+conditiional rendering...
+APP: 
+FLAG1/0   GREETINGS:
+            1 guest
+            0 USER
+
+instaed of last line export default 
+noww
+class compoment
+export default class PersonList extends React.component
+
+refer Car.js wale notes as comments
+
+            this middle layer                        
+API       AXIOS-- software layer                      React application
+user API 
+
+
+lifecycle- i can control the component loading
+refresh -- loaded only once
+Virtual DOM
+!!!!!!!!!!!11 Component did mount-->
+
+mounting - when it is rendered to DOM
+unmounting - when it unmounted from DOM
+updating - when props or state changes
+<!-- constructor() {
+    super(); 
+   } -->
+   ComponentDidMount() = life Cycle hook!!
+compomeentdidmount is react ka feature.. react js ke upr fit hua hai
+compomentdidmount ke andr hi ata hai axios statement
+   render map this api live api
+
+   agr js mie krte 10 baar data lete to 10 baar user se leke aata tha 
+   nowwww in compomentdid mount
+   ab bs one time a ikathe 10 logo ke leke aata aur lejata
+
+
+npm axios ko install krna hai pele
+
